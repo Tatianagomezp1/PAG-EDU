@@ -1,0 +1,393 @@
+
+#principal {
+width: 900px;
+height: 3700px;
+border:3px solid #C800AC;
+margin:auto;
+}
+header {
+	width: 800px;
+height: 1000px;
+border:3px  #FFFFFF;
+margin: auto;
+}
+
+#logo{
+	width: 800px;
+height: 80px;
+border:5px solid #C800AC;
+margin: auto;
+}
+.menu {
+width: 1100px;
+height: 100px;
+border:3px  #BA01FF;
+text-align: center;
+}
+.menu ul li {
+	list-style: none;
+	float: left;
+}
+.menu ul li a{
+	text-decoration: none;
+	padding:15px 40px;
+	border: 3px solid  #BA01FF;
+	background: #EBB7FF;
+}
+#title {
+
+	text-align: center;
+}
+h1{
+	text-align: center;
+
+}
+h2 {
+	font-family: "Optima";
+	text-align: left;
+
+}
+
+.parrafo{
+	width: 800px;
+	height:200px;
+	padding: 10px 10px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 5px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo img{
+	width: 200px;
+	border-radius: 5px;
+	float:right;
+	margin-right: 15px;
+}
+.parrafo1{
+	width: 800px;
+	height:200px;
+	padding: 10px 10px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 5px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo1 img{
+	width: 200px;
+	border-radius: 5px;
+	float:left;
+	margin-right: 15px;
+}
+.parrafo2{
+	width: 800px;
+	height:200px;
+	padding: 10px 10px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 5px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo2 img{
+	width: 200px;
+	border-radius: 5px;
+	float:right;
+	margin-right: 15px;
+}
+.parrafo3{
+	width: 800px;
+	height:200px;
+	padding: 10px 10px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 5px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo3 img{
+	width: 200px;
+	border-radius: 5px;
+	float:left;
+	margin-right: 15px;
+}
+
+.parrafo4{
+	width: 800px;
+	height:200px;
+	padding: 10px 10px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 5px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo4 img{
+	width: 200px;
+	border-radius: 5px;
+	float:right;
+	margin-right: 15px;
+}
+.parrafo5{
+	width: 800px;
+	height:200px;
+	padding: 10px 10px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 5px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo5 img{
+	width: 200px;
+	border-radius: 5px;
+	float:left;
+	margin-right: 15px;
+}
+.parrafo6{
+	width: 800px;
+	height:200px;
+	padding: 10px 10px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 5px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo6 img{
+	width: 300px;
+	border-radius: 5px;
+	float:right;
+	margin-right: 15px;
+}
+.parrafo7{
+	width: 800px;
+	height:200px;
+	padding: 10px 10px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 5px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo7 img{
+	width: 200px;
+	border-radius: 5px;
+	float:left;
+	margin-right: 15px;
+}
+.parrafo8{
+	width: 800px;
+	height:200px;
+	padding: 10px 10px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 5px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo8 img{
+	width: 200px;
+	border-radius: 5px;
+	float:right;
+	margin-right: 15px;
+}
+.parrafo0{
+	width: 800px;
+	height:200px;
+	padding: 10px 10px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 5px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo0 img{
+	width: 150px;
+	border-radius: 5px;
+	float:right;
+	margin-left: 20px;
+}
+.parrafo9{
+	width: 800px;
+	height:200px;
+	padding: 15px 15px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 15px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo9 img{
+	width: 150px;
+	border-radius: 5px;
+	float:left;
+	margin-right: 15px;
+}
+
+.parrafo10{
+	width: 800px;
+	height:200px;
+	padding: 15px 15px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 15px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo10 img{
+	width: 150px;
+	border-radius: 5px;
+	float:right;
+	margin-left: 15px;
+}
+.parrafo11{
+	width: 800px;
+	height:200px;
+	padding: 15px 15px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 15px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo11 img{
+	width: 150px;
+	border-radius: 5px;
+	float:left;
+	margin-right:  15px;
+}
+.parrafo12{
+	width: 800px;
+	height:200px;
+	padding: 15px 15px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 15px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo12 img{
+	width: 150px;
+	border-radius: 5px;
+	float:right;
+	margin-right:  15px;
+}
+.parrafo13{
+	width: 800px;
+	height:200px;
+	padding: 15px 15px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 15px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo13 img{
+	width: 200px;
+	border-radius: 5px;
+	float:left;
+	margin-right:  15px;
+}
+.parrafo14{
+	width: 800px;
+	height:200px;
+	padding: 15px 15px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 15px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo14 img{
+	width: 150px;
+	border-radius: 5px;
+	float:right;
+	margin-right:  15px;
+}
+.parrafo15{
+	width: 800px;
+	height:200px;
+	padding: 15px 15px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 15px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo15 img{
+	width: 150px;
+	border-radius: 5px;
+	float:left;
+	margin-right:  15px;
+}
+.parrafo16{
+	width: 800px;
+	height:200px;
+	padding: 15px 15px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 15px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo16 img{
+	width: 150px;
+	border-radius: 5px;
+	float:right;
+	margin-right:  15px;
+}
+.parrafo17{
+	width: 800px;
+	height:200px;
+	padding: 15px 15px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 15px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo17 img{
+	width: 150px;
+	border-radius: 5px;
+	float:right;
+	margin-right:  15px;
+}
+
+.parrafo18{
+	width: 800px;
+	height:200px;
+	padding: 15px 15px;
+	font-size: 15px;
+	line-height: 1.5;
+	box-shadow: 1px 5px 25px;
+	border-radius: 15px;
+	background: #000000;
+	color: #FFFFFF;
+}
+.parrafo18 img{
+	width: 200px;
+	border-radius: 5px;
+	float:left;
+	margin-right:  15px;
+}
